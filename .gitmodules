@@ -1,0 +1,16 @@
+[submodule "java-racingcar"]
+	path = java-racingcar
+	url = https://github.com/iiaii/java-racingcar
+	branch = step5
+[submodule "java-lotto"]
+	path = java-lotto
+	url = https://github.com/iiaii/java-lotto
+	branch = step4
+[submodule "java-ladder"]
+	path = java-ladder
+	url = https://github.com/iiaii/java-ladder
+	branch = step4
+[submodule "java-bowling"]
+	path = java-bowling
+	url = https://github.com/iiaii/java-bowling
+	branch = step4
